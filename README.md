@@ -1,6 +1,6 @@
 # toki.py
 
-A python script for practicing Toki Pona. Modified from a hirigana script by (~vilmibm)[http://tilde.town/~vilmibm/].
+A python script for practicing Toki Pona. Modified from a hirigana script by [~vilmibm](http://tilde.town/~vilmibm/).
 
 Example of the script running:
 
